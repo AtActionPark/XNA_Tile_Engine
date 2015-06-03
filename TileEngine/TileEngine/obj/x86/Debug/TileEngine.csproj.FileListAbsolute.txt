@@ -31,3 +31,4 @@ C:\Users\Dell\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEn
 C:\Users\Dell\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
 C:\Users\Dell\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.exe
 C:\Users\Dell\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.pdb
+C:\Users\Dell\Documents\Visual Studio 2010\Projects\TileEngine\TileEngine\TileEngine\obj\x86\Debug\TileEngine.csprojResolveAssemblyReference.cache
